@@ -47,11 +47,10 @@ Alcance del Proyecto
 El proyecto, consiste en realizar una aplicación en la cual se pueda realizar ventas de productos de tecnología de la manera más exacta y rápidamente posible.  Para el desarrollo del proyecto se realiza un análisis detallado que controle los recursos que se deben utilizar, en que tiempo se llevara cabo y con cuanto presupuesto cuéntanos para realizarlo.
 En el desarrollo de la aplicación se consideran unas series de actividades como una Investigación previa sobre las tecnologías, el desarrollo de la aplicación, la instalación de la aplicación será por medio de un servidor web , al final del desarrollo de la aplicación se realizan una serie de pruebas para conocer si se está obteniendo los resultados esperados
 
-Involucrados 
-Nombres 	Roles
-Gutiérrez Canul Samantha Noemí	Encargada del proyecto/Documentador
-Cruz Medina Ricardo	Diseñador /Programador 
-Zamudio Erosa Anner José 	Analista 
+Involucrados
+Gutiérrez Canul Samantha Noemí: Encargada del proyecto/Documentador
+Cruz Medina Ricardo: Diseñador /Programador 
+Zamudio Erosa Anner: José 	Analista 
 Cliente 	Profesor : Roberto Iván Santiago Hernández
 
 
